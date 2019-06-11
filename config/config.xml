@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Qt Core Advanced 6 6</Name>
+    <Version>1.0.0</Version>
+    <Title>Qt Core Advanced 6 6</Title>
+    <Publisher>Voidrealms</Publisher>
+    <StartMenuDir>Programming</StartMenuDir>
+    <TargetDir>@HomeDir@/InstallationDirectory</TargetDir>
+</Installer>
